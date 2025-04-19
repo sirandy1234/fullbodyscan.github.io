@@ -1,0 +1,71 @@
+body{
+	background:#DDEABF;
+/*	border: 2px solid;*/
+	padding: 40px;
+  	margin: 400px;
+  	box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+  	border-radius: 15px;
+}
+h1{
+	
+}
+h1.radiance{
+	font-size: 18px;
+	text-align: center;
+	color:#2F498B;
+	margin:-10px;
+}
+h1.full{
+	text-align: center;
+	font-size: 50px;
+	font-family: algerian;
+	color:#121A2D;
+	margin: -9px;
+}
+p.quantum{
+	background-color: #132863;
+	margin-left:-40px;
+	margin-right:-40px;
+	padding:0;
+	color: white;
+}
+.gallery{
+	display: flex;
+	transform: scale(1.05, 1.05);
+	align-content: center;
+}
+p.do{
+	color: #132863;
+	font-weight: bold;
+	margin-left: -25px;
+}
+p.organs{
+	color: #1C1D1D;
+	margin-left: -25px;
+}
+p.locate{
+	color: #132863;
+	margin-left: -25px;
+}
+p.address{
+	background-color: #EF0073;
+	padding: 10px;
+	font-size: 22px;
+	margin-right: -40px;
+	text-align: center;
+	box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+  	border-radius: 5px;
+  	color: white;
+
+/*  	font-weight: bold;*/
+
+}
+footer{
+	background-color: #000000;
+	color: white;
+	margin-bottom: -25px;
+	margin-top: -40px;
+	margin-right: -40px;
+	padding: 10px;
+	margin-left: -40px;
+}
